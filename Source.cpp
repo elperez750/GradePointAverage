@@ -1,6 +1,3 @@
-//Elliott Perez
-//Lab 4 - GPA Calculator
-
 #include <iostream>
 #include <iomanip>
 #include <string>
